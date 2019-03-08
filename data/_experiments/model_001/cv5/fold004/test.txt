@@ -1,0 +1,13 @@
+Label	Weight	Text
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	lava
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	time
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	What is magnitude
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	What is a metamorphic rock
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	lava
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	time
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	What is magnitude
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	What is a metamorphic rock
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	lava
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	time
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	What is magnitude
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	What is a metamorphic rock

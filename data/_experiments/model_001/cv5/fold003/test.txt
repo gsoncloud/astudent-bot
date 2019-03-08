@@ -1,0 +1,13 @@
+Label	Weight	Text
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	magnitude
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	time for geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	let's study geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	i want to study geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	magnitude
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	time for geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	let's study geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	i want to study geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	magnitude
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	time for geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	let's study geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1.416667	i want to study geology

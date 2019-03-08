@@ -1,0 +1,3673 @@
+{
+  "luis_schema_version": "3.1.0",
+  "versionId": "Dispatch",
+  "name": "student-bot-dispatch",
+  "desc": "dispatch",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624"
+    },
+    {
+      "name": "chitchat"
+    },
+    {
+      "name": "studybiology"
+    },
+    {
+      "name": "studysociology"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "what is a period",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "magnitude",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "metamorphic",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "epoch",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "what is magnitude",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "period",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "time for geology",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "what is an epoch",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "what is a metamorphic rock",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "era",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "let's study geology",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "lava",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "study geology",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "pressured rock",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "what is an era",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "i want to study geology",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "rising lava",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "what is magma",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "geology",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "geo",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "time",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "happy birthday!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i think you hate me.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can we be friends",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you know any jokes",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "hum a tune",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that was a stupid answer.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "say something",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that's not true.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're useless",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "nope, false",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite color",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're awful",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you suck",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you selling my data",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you have a life partner",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i want to go shopping",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you think about me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're right.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "sorry about that",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i am here",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you’re racist",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that wasn't true",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you prettier than me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you have brothers",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "hi",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "thnx",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you have siblings",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that's awesome",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's your purpose",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "season's greetings!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that's accurate",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you my assistant",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can you ask me a question",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're such a smarty-pants",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you keep saying the same thing all the time",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "it's a pleasure to meet you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm so lonely",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "so tired",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "why",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you know any songs",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "aren't you chipper",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you think i should ask him out",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you a boy",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're a fuckup",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you go by",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "where are you located",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i miss you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who owns you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "try to make some sense",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you have a name",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you know the meaning of life",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what is love",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you ever sing",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you sing",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how are you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "tell me a science joke",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you dream",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're dumb",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i love new york.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you young",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can you sing a song",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite food",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "awesome",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you like me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you think about alexa",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're so happy",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how beautiful am i",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you mean",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "give me a joke",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can you sing",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do i look okay",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you think of me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i am bored",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how's your day going",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what is up",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "later",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what are you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you female",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you in a relationship",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you think about cortana",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm furious",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i despise you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you honestly could not be more uninteresting",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "fuck off",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you trans",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how happy are you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're boring",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're so cool",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're nice!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how high can you count",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "tell me a different joke.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that was correct",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you happy",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you get hungry",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what should i call you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "later alligator",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i think you're so pretty",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who is your mother",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you seem happy",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you a girl or a boy",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "where are you from",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i thank you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i can't think of anything i want to do",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you my imaginary friend",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what kind of candy do you like",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "where did you come from",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "sing a tune",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how are you doing",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "talk to me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what are you doing",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what can you do",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who is your father",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how do you feel about working late",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "shut up",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite animal",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you the singularity",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "inaccurate",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i need a kiss",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how was your day",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you awesome",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i want to lie down",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you and cortana hang out",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you a lesbian",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you spend time in your garden",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'd like to take you out on a date",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you have boogers",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you made no sense",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "omg sorry",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you have a family",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who's your mom",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that's not accurate",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "love you!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "give me a fist bump",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "why not",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm so sorry",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "talk with me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "oops, sorry",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you know any other jokes",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who's your daddy",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i hope you like me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i want you to be my husband",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what other jokes can you tell",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "heya",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i am doing that",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "be more fun",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you a man or a woman",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "be funny",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who am i",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you a robot",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who created you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what makes you think that",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what were you doing yesterday",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who do you love",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i am a democrat",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what are you up to",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "where's your house",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you have a dad",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i am tired",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "correct",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you a spy",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i didn't mean that",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you are useless",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who's your favorite singer",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you are stupid",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i am tall",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can you make me a sandwich",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "human or robot",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you are fired",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "should i try out for soccer",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i want to be your friend.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're smart",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "happy halloween!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're really smart",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "pardon",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm bored out of my mind",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "kthx",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "say something stupid",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who's your dad",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "bye",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i think you're dreamy",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "here i am",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you a woman",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "where are you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm ticked off",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "which baseball teams do you like",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you don't know anything.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm into it",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you with the nsa",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how old are you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what state are you in",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you know other bots",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you know my name",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're such a sweetheart",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you there",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "testing",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you straight",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you like computers",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm sad today",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "good night to you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm cracking up",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do i look good in blue",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "excuse me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "hello alexa",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm just kidding around",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i don't get it",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i feel sad",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you are no longer employed",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "yes, that's true",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you a man",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that's so wrong.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're hilarious",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how do i look today",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's new",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you are funny :)",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm pissed",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "have you ever sung a song",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i want to spend the rest of my life with you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you know google",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "there's nothing to do",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "yes to that",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i don't understand",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what are you doing later",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "look at how smart you are",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what makes you think so",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "hi there!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i love my family.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i beg your pardon",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can you chat with me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you attempting world domination",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "good evening to you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "nighty night",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "where should i go on vacation",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "aren't you cheerful",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm famished",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you have any other responses",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm all tuckered out",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you’re ugly.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you play games",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how can you help me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm feeling blue",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "rofl",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "morning",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you with the fbi",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i am happy",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "which people made you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm sorry",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm so mad",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "say a joke",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you believe in love",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can you say anything else",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you are now unemployed",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what is wrong with you!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you a fan of tech",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you spying on me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you are so not pretty.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "why don't you ever stop talking",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how high can you jump",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how intelligent are you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i will be back",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you want to rule the world",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "hiya",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i think you're swell",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite activity",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're sexist",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you male or female",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm full of sadness",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you like siri",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who's prettier, me or you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "back in a minute",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you mean by that",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who's your boss",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm in love with you.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i appreciate it",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "false",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what can you help me with",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you think about technology",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you know alexa",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "brb",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who's your master",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's your name",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that wasn't funny.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "zip it!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "hold on a sec",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "pardon me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what did you do today",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who's smarter, me or you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you human",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "be quiet",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are we friends",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're the best",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "joke's on you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "sing something",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you know other chatbots",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "am i a good person",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i think you're great",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you think dragons are cool",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "ask me a question.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're lame",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "nice to meet you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "why do you hate me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what kinds of things can you do",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you have sisters",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you old",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can we chat",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you think about love",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's your job",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "bingo",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what should i do",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you face sucks.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you a person",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who is your creator",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "when were you born",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can you sneeze",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you bisexual",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "have you met cortana",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can you talk to me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can you fly",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can you hear me now",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you like alexa",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "have a good night",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you my fan",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you have a sister",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "just kidding",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "give me another joke",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you gay",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "your face is like a pancake.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "thanks",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that’s discrimination",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i am not your friend",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm so hungry",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you are a genius!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're an asshole",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i can drive a car",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you are so annoying!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "ask me anything.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you could not be more boring",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "why do you think that",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what state are you from",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you queer",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "chat with me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how's your day",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you hungry",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're way off.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who's your favorite team",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i like you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "don't you ever sleep",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "merry christmas",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "be ridiculous",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you smarter than me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you think you're smarter than me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm joyous",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "go to hell",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "quiet, you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you know who i am",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "kiss me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that's right",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "be my friend",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "say a silly thing",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you know siri",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you a fan of alexa",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm tired",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "nobody likes me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "will you be my wife",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i wish i could hug you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you skynet",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm so glad to meet you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you love anyone",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "aren't you awesome",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're the worst",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite movie",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's your boss' name",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "till we meet again",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you know me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "basic af",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you can't work for me anymore",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you bore me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you seem really smart",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "not funny.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you have a wife",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what kind of food do you like",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you like to eat",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "shush!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you better looking than me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're funny",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "night",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what did you do yesterday",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you love me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can't you change your answers",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "will you go on a date with me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're not making sense",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that’s terrible",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "is this thing on",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "it's my pleasure",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're no fun",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "haha",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're so stupid",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "bffs forever",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "will you be my partner",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "say something ridiculous",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm from there",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "hug me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i am angry",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you a fan of country music",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you a girl",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite song",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "testing 1 2 3",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you even mean by that",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "thank you so much",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you eat",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm in such a good mood",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i am alone",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "hello cortana",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how are you today",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i hate everything about you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you fucked up",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's going on",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "yes, that's right",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're fired!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm despondent",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you intelligent",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you are so bad at this.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're so boring",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "yup, that's true",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you my friend",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "where do you come from",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "say something funny",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "excuse moi",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i want to marry you.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "hahaha",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "awful",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you are my best friend",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that's inaccurate.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i am going on a run",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "cool!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you busy",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "yup",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "will you be my best friend",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're so funny.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you sweat",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that doesn't make sense",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that made no sense",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "good morning",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "good night",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you like baseball",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're really boring",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you ever get hungry",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that was a joke",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "hello google",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you available",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's my name",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "where do you live",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you like my hat",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "good evening",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're rad.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can you hear me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "sing a song",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "great!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "tell me a pirate joke",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that's hilarious",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "am i good-looking",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i want you to like me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "evening",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "tell me a joke",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're wonderful",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're a butterface.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i need a hug",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "sounds good",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who made you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i want to lay down",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what is the meaning of life",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "cook me something",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that's sexist",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you hal",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what country are you in",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's up",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "not true",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you have a boyfriend",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you have a husband",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm giving you a pink slip",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "stop talking",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you get tired",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you a swinger",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i am a republican",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm lonely",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "which one of us is more beautiful",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "it's really nice to meet you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how smart are you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're welcome",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm your biggest fan",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "yes",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "where'd you come from",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i hate you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i wish you just go away.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "give me a high five",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "accurate",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "excuse a moi",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "hi alexa",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "when will you shut up",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "will you be my boyfriend",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "there",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you think i look good",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're such an asshole",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "why are you so boring",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you prefer red or blue",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you hate me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you have a brother",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you pansexual",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "talk to you later",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "give me some sugar",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "fist bump!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "ha",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you smart",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what are you doing tomorrow",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm an engineer",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how much do you love me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "am i pretty",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you seem really happy",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you eat",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you are so unfunny.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you think i should ask her out",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i wish i weren't so alone",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm so madqw  b",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what other bots do you know",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can you count to a million",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "my sincere thanks",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "tell me another joke.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "goodbye",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're so basic",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you must hate me.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i wish you would say something else",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "tell a joke",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what country are you from",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "so sorry",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's your opinion of me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you real",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "say something dumb",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i love you.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what are you doing right now",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "useless",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you know other digital agents",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "everything you told me was false.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're very intelligent",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can i have a hug",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "here's a kiss for you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i got a new haircut",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "will you marry me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you like cortana",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm tired of you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you selling my secrets",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "having a good day",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm so bored",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm not following",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm a fan.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you do",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "see you later",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that was right",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i love getting valentines.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you pee",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "hi cortana",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm a lesbian",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "am i a fool",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you look ugly.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "be silly",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you married",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're not answering my question.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "hi google",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "thank you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i missed you!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "butterface.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can you play sports",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "lol",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "no, that's not true",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you have a girlfriend",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you are the love of my life",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you like apples",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "welcome to springtime!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that’s racist",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you think about bots",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you free",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can you read my mind",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're so smart",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i wish you would just go away.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "why is that",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm really sad",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you a guy",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how smart you are",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you know cortana",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who do you report to",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "can you sleep",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you know any tunes",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "nobody cares about me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i miss you so much!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how i've missed you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you dating anyone",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm in love.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "give me a kiss",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that’s homophobic",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that's not funny.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i want to eat something",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm so sad",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that's true",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i am hungry",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you are awesome!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you are my favorite",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "life is good",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you here",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i feel so great",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you with the cia",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're not funny.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's wrong with you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you really happy",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "hello siri",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how long ago were you born",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's your mom's name",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "don't you get hungry",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm ready for bed",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you not like me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm just playing",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's your dad's name",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i have 7 cats",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you engaged",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you have a mom",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "will you be my girlfriend",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how much more awesome can you get",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i’m offended",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that’s offensive",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you real or fake",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's the name of your boss",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what is the answer to the universe",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm afraid i'm gonna have to let you go.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "go away",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what age are you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you think about ai",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's your gender",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you dumb",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "works for me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "which one of us is smarter",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you asexual",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "getting tired of you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you like to sing best",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "who are you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "tell me a dirty joke",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm chewing gum right now",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you friends with other bots",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "happy hannukah",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you think about siri",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're stupid",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "sry",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "do you smell",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you're gonna be unemployed soon",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's the meaning of life",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you male",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i love music.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i am annoyed",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you in love with me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "are you around",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's happening",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "terrible",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "how are things",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "your face is ugly.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "that was funny",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "ask me something.",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm starving",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "should i get a new job",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i just want to go to sleep",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what do you want to know about me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i adore you",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what's your age",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "i'm so sleepy",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "high five!",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "what color do you like",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "hi siri",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "tell me how much you love me",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "why do you say the same thing all the time",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you’re homophobic",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "you don't interest me at all",
+      "intent": "chitchat",
+      "entities": []
+    },
+    {
+      "text": "biology",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "what is sexual reproduction",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "what is the blood brain barrier",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "what is asexual reproduction",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "what is a parasite",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "what is cancer",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "what are bacteria",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "what is a virus",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "what is alienation",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "what is affirmative action",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "study sociology",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "south africa",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "what is bicultural",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "equal rights",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "2 cultures",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "next up, sociology",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "let's study sociology",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "apartheid",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "what is a stereotype",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "i want to study sociology",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "what is absolute poverty",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "alienated",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "what is a minority",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "what is apartheid",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "time for sociology",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "poverty",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "two cultures",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "sociology",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "what is cultural pluralism",
+      "intent": "studybiology",
+      "entities": []
+    },
+    {
+      "text": "minority",
+      "intent": "studybiology",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

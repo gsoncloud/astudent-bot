@@ -1,0 +1,49 @@
+{
+  "authoringRegion": "westus",
+  "culture": "en-us",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "services": [
+    {
+      "kbId": "4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "subscriptionKey": "604e08940fda42329c276152f6172b13",
+      "type": "qna",
+      "name": "",
+      "id": "1"
+    },
+    {
+      "kbId": "e09e6a5d-604f-4d88-b68d-d4405b346b92",
+      "subscriptionKey": "604e08940fda42329c276152f6172b13",
+      "type": "qna",
+      "name": "studybiology",
+      "id": "2"
+    },
+    {
+      "kbId": "fe495187-0741-42f5-950b-4297a39da6f1",
+      "subscriptionKey": "604e08940fda42329c276152f6172b13",
+      "type": "qna",
+      "name": "chitchat",
+      "id": "3"
+    },
+    {
+      "kbId": "6abaaf50-982b-4b24-8b1a-5b281d6a78db",
+      "subscriptionKey": "604e08940fda42329c276152f6172b13",
+      "type": "qna",
+      "name": "studysociology",
+      "id": "4"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "appId": "cc96320b-6617-4783-9b53-0782685e2ecd",
+  "authoringKey": "d3b87099828b4fbfa5f2a3a72ea2ddd0",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "student-bot-dispatch"
+}

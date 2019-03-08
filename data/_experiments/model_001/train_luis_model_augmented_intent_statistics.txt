@@ -1,0 +1,2 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	q_4dcfe107-83c3-4943-ac8f-3435e31f8624	21	11.905	26	3	6.557

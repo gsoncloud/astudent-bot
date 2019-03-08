@@ -1,0 +1,170 @@
+Label	Weight	Text
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	study geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	pressured rock
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	What is an era
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	i want to study geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	study geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	pressured rock
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	What is an era
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	i want to study geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	study geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	pressured rock
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	What is an era
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	i want to study geology
+q_chitchat	4.014084	What's your favorite song
+q_chitchat	4.014084	Testing 1 2 3
+q_chitchat	4.014084	What do you even mean by that
+q_chitchat	4.014084	Thank you so much
+q_chitchat	4.014084	What do you eat
+q_chitchat	4.014084	I'm in such a good mood
+q_chitchat	4.014084	I am alone
+q_chitchat	4.014084	Hello Cortana
+q_chitchat	4.014084	How are you today
+q_chitchat	4.014084	I hate everything about you
+q_chitchat	4.014084	You fucked up
+q_chitchat	4.014084	What's going on
+q_chitchat	4.014084	Yes, that's right
+q_chitchat	4.014084	You're fired!
+q_chitchat	4.014084	I'm despondent
+q_chitchat	4.014084	Are you intelligent
+q_chitchat	8.028169	You are so bad at this.
+q_chitchat	4.014084	You're so boring
+q_chitchat	4.014084	Yup, that's true
+q_chitchat	4.014084	Are you my friend
+q_chitchat	4.014084	Where do you come from
+q_chitchat	4.014084	Say something funny
+q_chitchat	4.014084	Excuse moi
+q_chitchat	4.014084	I want to marry you.
+q_chitchat	4.014084	Hahaha
+q_chitchat	4.014084	Awful
+q_chitchat	4.014084	You are my best friend
+q_chitchat	8.028169	That's inaccurate.
+q_chitchat	4.014084	I am going on a run
+q_chitchat	4.014084	Cool!
+q_chitchat	4.014084	Are you busy
+q_chitchat	4.014084	Yup
+q_chitchat	4.014084	Will you be my best friend
+q_chitchat	8.028169	You're so funny.
+q_chitchat	4.014084	Do you sweat
+q_chitchat	4.014084	That doesn't make sense
+q_chitchat	4.014084	That made no sense
+q_chitchat	4.014084	Good morning
+q_chitchat	4.014084	Good night
+q_chitchat	4.014084	Do you like baseball
+q_chitchat	4.014084	You're really boring
+q_chitchat	4.014084	Do you ever get hungry
+q_chitchat	4.014084	That was a joke
+q_chitchat	4.014084	Hello Google
+q_chitchat	4.014084	Are you available
+q_chitchat	4.014084	What's my name
+q_chitchat	4.014084	Where do you live
+q_chitchat	4.014084	Do you like my hat
+q_chitchat	4.014084	Good evening
+q_chitchat	8.028169	You're rad.
+q_chitchat	4.014084	Can you hear me
+q_chitchat	4.014084	Sing a song
+q_chitchat	4.014084	Great!
+q_chitchat	4.014084	Tell me a pirate joke
+q_chitchat	4.014084	That's hilarious
+q_chitchat	4.014084	Am I good-looking
+q_chitchat	4.014084	I want you to like me
+q_chitchat	4.014084	Evening
+q_chitchat	4.014084	Tell me a joke
+q_chitchat	4.014084	You're wonderful
+q_chitchat	4.014084	You're a butterface.
+q_chitchat	4.014084	I need a hug
+q_chitchat	4.014084	Sounds good
+q_chitchat	4.014084	Who made you
+q_chitchat	4.014084	I want to lay down
+q_chitchat	4.014084	What is the meaning of life
+q_chitchat	4.014084	Cook me something
+q_chitchat	4.014084	That's sexist
+q_chitchat	4.014084	Are you HAL
+q_chitchat	4.014084	What country are you in
+q_chitchat	4.014084	What's up
+q_chitchat	4.014084	Not true
+q_chitchat	4.014084	Do you have a boyfriend
+q_chitchat	4.014084	Do you have a husband
+q_chitchat	4.014084	I'm giving you a pink slip
+q_chitchat	4.014084	Stop talking
+q_chitchat	4.014084	Do you get tired
+q_chitchat	4.014084	Are you a swinger
+q_chitchat	4.014084	I am a Republican
+q_chitchat	4.014084	I'm lonely
+q_chitchat	4.014084	Which one of us is more beautiful
+q_chitchat	4.014084	It's really nice to meet you
+q_chitchat	4.014084	How smart are you
+q_chitchat	4.014084	You're welcome
+q_chitchat	4.014084	I'm your biggest fan
+q_chitchat	4.014084	Yes
+q_chitchat	4.014084	Where'd you come from
+q_chitchat	4.014084	I hate you
+q_chitchat	4.014084	I wish you just go away.
+q_chitchat	4.014084	Give me a high five
+q_chitchat	4.014084	Accurate
+q_chitchat	4.014084	Excuse a moi
+q_chitchat	4.014084	Hi Alexa
+q_chitchat	4.014084	When will you shut up
+q_chitchat	4.014084	Will you be my boyfriend
+q_chitchat	4.014084	There
+q_chitchat	4.014084	Do you think I look good
+q_chitchat	4.014084	You're such an asshole
+q_chitchat	4.014084	Why are you so boring
+q_chitchat	4.014084	Do you prefer red or blue
+q_chitchat	4.014084	Do you hate me
+q_chitchat	4.014084	Do you have a brother
+q_chitchat	4.014084	Are you pansexual
+q_chitchat	4.014084	Talk to you later
+q_chitchat	4.014084	Give me some sugar
+q_chitchat	4.014084	Fist bump!
+q_chitchat	4.014084	Ha
+q_chitchat	4.014084	Are you smart
+q_chitchat	4.014084	What are you doing tomorrow
+q_chitchat	4.014084	I'm an engineer
+q_chitchat	4.014084	How much do you love me
+q_chitchat	4.014084	Am I pretty
+q_chitchat	4.014084	You seem really happy
+q_chitchat	4.014084	Do you eat
+q_chitchat	8.028169	You are so unfunny.
+q_chitchat	4.014084	Do you think I should ask her out
+q_chitchat	4.014084	I wish I weren't so alone
+q_chitchat	4.014084	I'm so madqw  b
+q_chitchat	4.014084	What other bots do you know
+q_chitchat	4.014084	Can you count to a million
+q_chitchat	4.014084	My sincere thanks
+q_chitchat	4.014084	Tell me another joke.
+q_chitchat	4.014084	Goodbye
+q_chitchat	4.014084	You're so basic
+q_chitchat	8.028169	You must hate me.
+q_chitchat	4.014084	I wish you would say something else
+q_chitchat	4.014084	Tell a joke
+q_chitchat	4.014084	What country are you from
+q_chitchat	4.014084	So sorry
+q_chitchat	4.014084	What's your opinion of me
+q_chitchat	4.014084	Are you real
+q_chitchat	4.014084	Say something dumb
+q_chitchat	8.028169	I love you.
+q_chitchat	4.014084	What are you doing right now
+q_chitchat	4.014084	Useless
+q_studybiology	57	What are bacteria
+q_studybiology	57	What is a virus
+q_studybiology	57	What are bacteria
+q_studybiology	57	What is a virus
+q_studybiology	57	What are bacteria
+q_studybiology	57	What is a virus
+q_studybiology	57	What are bacteria
+q_studybiology	57	What is a virus
+q_studybiology	57	What are bacteria
+q_studybiology	57	What is a virus
+q_studysociology	47.5	What is absolute poverty
+q_studysociology	47.5	alienated
+q_studysociology	47.5	What is a minority
+q_studysociology	47.5	What is Apartheid
+q_studysociology	47.5	What is absolute poverty
+q_studysociology	47.5	alienated
+q_studysociology	47.5	What is a minority
+q_studysociology	47.5	What is Apartheid
+q_studysociology	47.5	What is absolute poverty
+q_studysociology	47.5	alienated
+q_studysociology	47.5	What is a minority
+q_studysociology	47.5	What is Apartheid

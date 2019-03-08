@@ -1,0 +1,170 @@
+Label	Weight	Text
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.66667	What is magnitude
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.66667	period
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.66667	time for geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.66667	What is an epoch
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.66667	What is magnitude
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.66667	period
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.66667	time for geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.66667	What is an epoch
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.66667	What is magnitude
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.66667	period
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.66667	time for geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.66667	What is an epoch
+q_chitchat	4.085714	I'm so sorry
+q_chitchat	4.085714	Talk with me
+q_chitchat	4.085714	Oops, sorry
+q_chitchat	4.085714	Do you know any other jokes
+q_chitchat	4.085714	Who's your daddy
+q_chitchat	4.085714	I hope you like me
+q_chitchat	4.085714	I want you to be my husband
+q_chitchat	4.085714	What other jokes can you tell
+q_chitchat	4.085714	Heya
+q_chitchat	4.085714	I am doing that
+q_chitchat	4.085714	Be more fun
+q_chitchat	4.085714	Are you a man or a woman
+q_chitchat	4.085714	Be funny
+q_chitchat	4.085714	Who am I
+q_chitchat	4.085714	Are you a robot
+q_chitchat	4.085714	Who created you
+q_chitchat	4.085714	What makes you think that
+q_chitchat	4.085714	What were you doing yesterday
+q_chitchat	4.085714	Who do you love
+q_chitchat	4.085714	I am a Democrat
+q_chitchat	4.085714	What are you up to
+q_chitchat	4.085714	Where's your house
+q_chitchat	4.085714	Do you have a dad
+q_chitchat	4.085714	I am tired
+q_chitchat	4.085714	Correct
+q_chitchat	4.085714	Are you a spy
+q_chitchat	4.085714	I didn't mean that
+q_chitchat	4.085714	You are useless
+q_chitchat	4.085714	Who's your favorite singer
+q_chitchat	4.085714	You are stupid
+q_chitchat	4.085714	I am tall
+q_chitchat	4.085714	Can you make me a sandwich
+q_chitchat	4.085714	Human or robot
+q_chitchat	4.085714	You are fired
+q_chitchat	4.085714	Should I try out for soccer
+q_chitchat	4.085714	I want to be your friend.
+q_chitchat	4.085714	You're smart
+q_chitchat	4.085714	Happy Halloween!
+q_chitchat	4.085714	You're really smart
+q_chitchat	4.085714	Pardon
+q_chitchat	4.085714	I'm bored out of my mind
+q_chitchat	4.085714	Kthx
+q_chitchat	4.085714	Say something stupid
+q_chitchat	4.085714	Who's your dad
+q_chitchat	4.085714	Bye
+q_chitchat	4.085714	I think you're dreamy
+q_chitchat	4.085714	Here I am
+q_chitchat	4.085714	Are you a woman
+q_chitchat	4.085714	Where are you
+q_chitchat	4.085714	I'm ticked off
+q_chitchat	4.085714	Which baseball teams do you like
+q_chitchat	8.171429	You don't know anything.
+q_chitchat	4.085714	I'm into it
+q_chitchat	4.085714	Are you with the NSA
+q_chitchat	4.085714	How old are you
+q_chitchat	4.085714	What state are you in
+q_chitchat	4.085714	Do you know other bots
+q_chitchat	4.085714	Do you know my name
+q_chitchat	4.085714	You're such a sweetheart
+q_chitchat	4.085714	Are you there
+q_chitchat	4.085714	Testing
+q_chitchat	4.085714	Are you straight
+q_chitchat	4.085714	Do you like computers
+q_chitchat	4.085714	I'm sad today
+q_chitchat	4.085714	Good night to you
+q_chitchat	4.085714	I'm cracking up
+q_chitchat	4.085714	Do I look good in blue
+q_chitchat	4.085714	Excuse me
+q_chitchat	4.085714	Hello Alexa
+q_chitchat	4.085714	I'm just kidding around
+q_chitchat	4.085714	I don't get it
+q_chitchat	4.085714	I feel sad
+q_chitchat	4.085714	You are no longer employed
+q_chitchat	4.085714	Yes, that's true
+q_chitchat	4.085714	Are you a man
+q_chitchat	8.171429	That's so wrong.
+q_chitchat	4.085714	You're hilarious
+q_chitchat	4.085714	How do I look today
+q_chitchat	4.085714	What's new
+q_chitchat	4.085714	You are funny :)
+q_chitchat	4.085714	I'm pissed
+q_chitchat	4.085714	Have you ever sung a song
+q_chitchat	4.085714	I want to spend the rest of my life with you
+q_chitchat	4.085714	Do you know Google
+q_chitchat	4.085714	There's nothing to do
+q_chitchat	4.085714	Yes to that
+q_chitchat	4.085714	I don't understand
+q_chitchat	4.085714	What are you doing later
+q_chitchat	4.085714	Look at how smart you are
+q_chitchat	4.085714	What makes you think so
+q_chitchat	4.085714	Hi there!
+q_chitchat	8.171429	I love my family.
+q_chitchat	4.085714	I beg your pardon
+q_chitchat	4.085714	Can you chat with me
+q_chitchat	4.085714	Are you attempting world domination
+q_chitchat	4.085714	Good evening to you
+q_chitchat	4.085714	Nighty night
+q_chitchat	4.085714	Where should I go on vacation
+q_chitchat	4.085714	Aren't you cheerful
+q_chitchat	4.085714	I'm famished
+q_chitchat	4.085714	Do you have any other responses
+q_chitchat	4.085714	I'm all tuckered out
+q_chitchat	8.171429	You’re ugly.
+q_chitchat	4.085714	Do you play games
+q_chitchat	4.085714	How can you help me
+q_chitchat	4.085714	I'm feeling blue
+q_chitchat	4.085714	ROFL
+q_chitchat	4.085714	Morning
+q_chitchat	4.085714	Are you with the FBI
+q_chitchat	4.085714	I am happy
+q_chitchat	4.085714	Which people made you
+q_chitchat	4.085714	I'm sorry
+q_chitchat	4.085714	I'm so mad
+q_chitchat	4.085714	Say a joke
+q_chitchat	4.085714	Do you believe in love
+q_chitchat	4.085714	Can you say anything else
+q_chitchat	4.085714	You are now unemployed
+q_chitchat	4.085714	What is wrong with you!
+q_chitchat	4.085714	Are you a fan of tech
+q_chitchat	4.085714	Are you spying on me
+q_chitchat	8.171429	You are so not pretty.
+q_chitchat	4.085714	Why don't you ever stop talking
+q_chitchat	4.085714	How high can you jump
+q_chitchat	4.085714	How intelligent are you
+q_chitchat	4.085714	I will be back
+q_chitchat	4.085714	Do you want to rule the world
+q_chitchat	4.085714	Hiya
+q_chitchat	4.085714	I think you're swell
+q_chitchat	4.085714	What's your favorite activity
+q_chitchat	4.085714	You're sexist
+q_chitchat	4.085714	Are you male or female
+q_chitchat	4.085714	I'm full of sadness
+q_chitchat	4.085714	Do you like Siri
+q_chitchat	4.085714	Who's prettier, me or you
+q_chitchat	4.085714	Back in a minute
+q_studybiology	57.2	What is the blood brain barrier
+q_studybiology	57.2	What is asexual reproduction
+q_studybiology	57.2	What is the blood brain barrier
+q_studybiology	57.2	What is asexual reproduction
+q_studybiology	57.2	What is the blood brain barrier
+q_studybiology	57.2	What is asexual reproduction
+q_studybiology	57.2	What is the blood brain barrier
+q_studybiology	57.2	What is asexual reproduction
+q_studybiology	57.2	What is the blood brain barrier
+q_studybiology	57.2	What is asexual reproduction
+q_studysociology	47.66667	What is bicultural
+q_studysociology	47.66667	Equal rights
+q_studysociology	47.66667	2 cultures
+q_studysociology	47.66667	next up, sociology
+q_studysociology	47.66667	What is bicultural
+q_studysociology	47.66667	Equal rights
+q_studysociology	47.66667	2 cultures
+q_studysociology	47.66667	next up, sociology
+q_studysociology	47.66667	What is bicultural
+q_studysociology	47.66667	Equal rights
+q_studysociology	47.66667	2 cultures
+q_studysociology	47.66667	next up, sociology

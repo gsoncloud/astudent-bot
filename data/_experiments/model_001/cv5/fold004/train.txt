@@ -1,0 +1,18 @@
+Label	Weight	Text
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	study geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	rising lava
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	metamorphic
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	pressured rock
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	geo
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	What is a period
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	What is magma
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	period
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	epoch
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	What is an era
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	era
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	magnitude
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	time for geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	let's study geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	i want to study geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	1	What is an epoch

@@ -1,0 +1,170 @@
+Label	Weight	Text
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.75	What is a period
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.75	magnitude
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.75	metamorphic
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.75	epoch
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.75	What is a period
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.75	magnitude
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.75	metamorphic
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.75	epoch
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.75	What is a period
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.75	magnitude
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.75	metamorphic
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.75	epoch
+q_chitchat	4.122302	Happy Birthday!
+q_chitchat	8.244604	I think you hate me.
+q_chitchat	4.122302	Can we be friends
+q_chitchat	4.122302	Do you know any jokes
+q_chitchat	4.122302	Hum a tune
+q_chitchat	8.244604	That was a stupid answer.
+q_chitchat	4.122302	Say something
+q_chitchat	8.244604	That's not true.
+q_chitchat	4.122302	You're useless
+q_chitchat	4.122302	Nope, false
+q_chitchat	4.122302	What's your favorite color
+q_chitchat	4.122302	You're awful
+q_chitchat	4.122302	You suck
+q_chitchat	4.122302	Are you selling my data
+q_chitchat	4.122302	Do you have a life partner
+q_chitchat	4.122302	I want to go shopping
+q_chitchat	4.122302	What do you think about me
+q_chitchat	4.122302	You're right.
+q_chitchat	4.122302	Sorry about that
+q_chitchat	4.122302	I am here
+q_chitchat	4.122302	You’re racist
+q_chitchat	4.122302	That wasn't true
+q_chitchat	4.122302	Are you prettier than me
+q_chitchat	4.122302	Do you have brothers
+q_chitchat	4.122302	Hi
+q_chitchat	4.122302	Thnx
+q_chitchat	4.122302	Do you have siblings
+q_chitchat	4.122302	That's awesome
+q_chitchat	4.122302	What's your purpose
+q_chitchat	4.122302	Season's greetings!
+q_chitchat	4.122302	That's accurate
+q_chitchat	4.122302	Are you my assistant
+q_chitchat	4.122302	Can you ask me a question
+q_chitchat	4.122302	You're such a smarty-pants
+q_chitchat	4.122302	You keep saying the same thing all the time
+q_chitchat	4.122302	It's a pleasure to meet you
+q_chitchat	4.122302	I'm so lonely
+q_chitchat	4.122302	So tired
+q_chitchat	4.122302	Why
+q_chitchat	4.122302	Do you know any songs
+q_chitchat	4.122302	Aren't you chipper
+q_chitchat	4.122302	Do you think I should ask him out
+q_chitchat	4.122302	Are you a boy
+q_chitchat	4.122302	You're a fuckup
+q_chitchat	4.122302	What do you go by
+q_chitchat	4.122302	Where are you located
+q_chitchat	4.122302	I miss you
+q_chitchat	4.122302	Who owns you
+q_chitchat	4.122302	Try to make some sense
+q_chitchat	4.122302	Do you have a name
+q_chitchat	4.122302	Do you know the meaning of life
+q_chitchat	4.122302	What is love
+q_chitchat	4.122302	Do you ever sing
+q_chitchat	4.122302	Do you sing
+q_chitchat	4.122302	How are you
+q_chitchat	4.122302	Tell me a science joke
+q_chitchat	4.122302	Do you dream
+q_chitchat	4.122302	You're dumb
+q_chitchat	8.244604	I love New York.
+q_chitchat	4.122302	Are you young
+q_chitchat	4.122302	Can you sing a song
+q_chitchat	4.122302	What's your favorite food
+q_chitchat	4.122302	Awesome
+q_chitchat	4.122302	Do you like me
+q_chitchat	4.122302	What do you think about Alexa
+q_chitchat	4.122302	You're so happy
+q_chitchat	4.122302	How beautiful am i
+q_chitchat	4.122302	What do you mean
+q_chitchat	4.122302	Give me a joke
+q_chitchat	4.122302	Can you sing
+q_chitchat	4.122302	Do I look okay
+q_chitchat	4.122302	What do you think of me
+q_chitchat	4.122302	I am bored
+q_chitchat	4.122302	How's your day going
+q_chitchat	4.122302	What is up
+q_chitchat	4.122302	Later
+q_chitchat	4.122302	What are you
+q_chitchat	4.122302	Are you female
+q_chitchat	4.122302	Are you in a relationship
+q_chitchat	4.122302	Hello
+q_chitchat	4.122302	What do you think about Cortana
+q_chitchat	4.122302	I'm furious
+q_chitchat	4.122302	I despise you
+q_chitchat	4.122302	You honestly could not be more uninteresting
+q_chitchat	4.122302	Fuck off
+q_chitchat	4.122302	Are you trans
+q_chitchat	4.122302	How happy are you
+q_chitchat	4.122302	You're boring
+q_chitchat	4.122302	You're so cool
+q_chitchat	4.122302	You're nice!
+q_chitchat	4.122302	How high can you count
+q_chitchat	4.122302	Tell me a different joke.
+q_chitchat	4.122302	That was correct
+q_chitchat	4.122302	Are you happy
+q_chitchat	4.122302	Do you get hungry
+q_chitchat	4.122302	What should I call you
+q_chitchat	4.122302	Later alligator
+q_chitchat	4.122302	I think you're so pretty
+q_chitchat	4.122302	Who is your mother
+q_chitchat	4.122302	You seem happy
+q_chitchat	4.122302	Are you a girl or a boy
+q_chitchat	4.122302	Where are you from
+q_chitchat	4.122302	I thank you
+q_chitchat	4.122302	I can't think of anything I want to do
+q_chitchat	4.122302	Are you my imaginary friend
+q_chitchat	4.122302	What kind of candy do you like
+q_chitchat	4.122302	Where did you come from
+q_chitchat	4.122302	Sing a tune
+q_chitchat	4.122302	How are you doing
+q_chitchat	4.122302	Talk to me
+q_chitchat	4.122302	What are you doing
+q_chitchat	4.122302	What can you do
+q_chitchat	4.122302	Who is your father
+q_chitchat	4.122302	How do you feel about working late
+q_chitchat	4.122302	Shut up
+q_chitchat	4.122302	What's your favorite animal
+q_chitchat	4.122302	Are you the singularity
+q_chitchat	4.122302	Inaccurate
+q_chitchat	4.122302	I need a kiss
+q_chitchat	4.122302	How was your day
+q_chitchat	4.122302	Are you awesome
+q_chitchat	4.122302	I want to lie down
+q_chitchat	4.122302	Do you and Cortana hang out
+q_chitchat	4.122302	Are you a lesbian
+q_chitchat	4.122302	Do you spend time in your garden
+q_chitchat	4.122302	I'd like to take you out on a date
+q_chitchat	4.122302	Do you have boogers
+q_chitchat	4.122302	You made no sense
+q_chitchat	4.122302	Omg sorry
+q_chitchat	4.122302	Do you have a family
+q_chitchat	4.122302	Who's your mom
+q_chitchat	4.122302	That's not accurate
+q_chitchat	4.122302	Love you!
+q_chitchat	4.122302	Give me a fist bump
+q_chitchat	4.122302	Why not
+q_studybiology	57.3	Biology
+q_studybiology	57.3	What is sexual reproduction
+q_studybiology	57.3	Biology
+q_studybiology	57.3	What is sexual reproduction
+q_studybiology	57.3	Biology
+q_studybiology	57.3	What is sexual reproduction
+q_studybiology	57.3	Biology
+q_studybiology	57.3	What is sexual reproduction
+q_studybiology	57.3	Biology
+q_studybiology	57.3	What is sexual reproduction
+q_studysociology	47.75	What is alienation
+q_studysociology	47.75	What is affirmative action
+q_studysociology	47.75	study sociology
+q_studysociology	47.75	South Africa
+q_studysociology	47.75	What is alienation
+q_studysociology	47.75	What is affirmative action
+q_studysociology	47.75	study sociology
+q_studysociology	47.75	South Africa
+q_studysociology	47.75	What is alienation
+q_studysociology	47.75	What is affirmative action
+q_studysociology	47.75	study sociology
+q_studysociology	47.75	South Africa

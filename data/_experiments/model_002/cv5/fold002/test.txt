@@ -1,0 +1,170 @@
+Label	Weight	Text
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	What is a metamorphic rock
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	era
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	let's study geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	lava
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	What is a metamorphic rock
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	era
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	let's study geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	lava
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	What is a metamorphic rock
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	era
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	let's study geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.5	lava
+q_chitchat	4.014084	What do you mean by that
+q_chitchat	4.014084	Who's your boss
+q_chitchat	8.028169	I'm in love with you.
+q_chitchat	4.014084	I appreciate it
+q_chitchat	4.014084	FALSE
+q_chitchat	4.014084	What can you help me with
+q_chitchat	4.014084	What do you think about technology
+q_chitchat	4.014084	Do you know Alexa
+q_chitchat	4.014084	BRB
+q_chitchat	4.014084	Who's your master
+q_chitchat	4.014084	What's your name
+q_chitchat	8.028169	That wasn't funny.
+q_chitchat	4.014084	Zip it!
+q_chitchat	4.014084	Hold on a sec
+q_chitchat	4.014084	Pardon me
+q_chitchat	4.014084	What did you do today
+q_chitchat	4.014084	Who's smarter, me or you
+q_chitchat	4.014084	Are you human
+q_chitchat	4.014084	Be quiet
+q_chitchat	4.014084	Are we friends
+q_chitchat	4.014084	You're the best
+q_chitchat	4.014084	Joke's on you
+q_chitchat	4.014084	Sing something
+q_chitchat	4.014084	Do you know other chatbots
+q_chitchat	4.014084	Am I a good person
+q_chitchat	4.014084	I think you're great
+q_chitchat	4.014084	Do you think dragons are cool
+q_chitchat	8.028169	Ask me a question.
+q_chitchat	4.014084	You're lame
+q_chitchat	4.014084	Nice to meet you
+q_chitchat	4.014084	Why do you hate me
+q_chitchat	4.014084	What kinds of things can you do
+q_chitchat	4.014084	Do you have sisters
+q_chitchat	4.014084	Are you old
+q_chitchat	4.014084	Can we chat
+q_chitchat	4.014084	What do you think about love
+q_chitchat	4.014084	What's your job
+q_chitchat	4.014084	Bingo
+q_chitchat	4.014084	What should I do
+q_chitchat	8.028169	You face sucks.
+q_chitchat	4.014084	Are you a person
+q_chitchat	4.014084	Who is your creator
+q_chitchat	4.014084	When were you born
+q_chitchat	4.014084	Can you sneeze
+q_chitchat	4.014084	Are you bisexual
+q_chitchat	4.014084	Have you met Cortana
+q_chitchat	4.014084	Can you talk to me
+q_chitchat	4.014084	Can you fly
+q_chitchat	4.014084	Can you hear me now
+q_chitchat	4.014084	Do you like Alexa
+q_chitchat	4.014084	Have a good night
+q_chitchat	4.014084	Are you my fan
+q_chitchat	4.014084	Do you have a sister
+q_chitchat	4.014084	Just kidding
+q_chitchat	4.014084	Give me another joke
+q_chitchat	4.014084	Are you gay
+q_chitchat	4.014084	Your face is like a pancake.
+q_chitchat	4.014084	Thanks
+q_chitchat	4.014084	That’s discrimination
+q_chitchat	4.014084	I am not your friend
+q_chitchat	4.014084	I'm so hungry
+q_chitchat	4.014084	You are a genius!
+q_chitchat	4.014084	You're an asshole
+q_chitchat	4.014084	I can drive a car
+q_chitchat	4.014084	You are so annoying!
+q_chitchat	8.028169	Ask me anything.
+q_chitchat	4.014084	You could not be more boring
+q_chitchat	4.014084	Why do you think that
+q_chitchat	4.014084	What state are you from
+q_chitchat	4.014084	Are you queer
+q_chitchat	4.014084	Chat with me
+q_chitchat	4.014084	How's your day
+q_chitchat	4.014084	Are you hungry
+q_chitchat	8.028169	You're way off.
+q_chitchat	4.014084	Who's your favorite team
+q_chitchat	4.014084	I like you
+q_chitchat	4.014084	Don't you ever sleep
+q_chitchat	4.014084	Merry Christmas
+q_chitchat	4.014084	Be ridiculous
+q_chitchat	4.014084	Are you smarter than me
+q_chitchat	4.014084	Do you think you're smarter than me
+q_chitchat	4.014084	I'm joyous
+q_chitchat	4.014084	Go to hell
+q_chitchat	4.014084	Quiet, you
+q_chitchat	4.014084	Do you know who I am
+q_chitchat	4.014084	Kiss me
+q_chitchat	4.014084	That's right
+q_chitchat	4.014084	Be my friend
+q_chitchat	4.014084	Say a silly thing
+q_chitchat	4.014084	Do you know Siri
+q_chitchat	4.014084	Are you a fan of Alexa
+q_chitchat	4.014084	I'm tired
+q_chitchat	4.014084	Nobody likes me
+q_chitchat	4.014084	Will you be my wife
+q_chitchat	4.014084	I wish I could hug you
+q_chitchat	4.014084	Are you Skynet
+q_chitchat	4.014084	I'm so glad to meet you
+q_chitchat	4.014084	Do you love anyone
+q_chitchat	4.014084	Aren't you awesome
+q_chitchat	4.014084	You're the worst
+q_chitchat	4.014084	What's your favorite movie
+q_chitchat	4.014084	What's your boss' name
+q_chitchat	4.014084	Till we meet again
+q_chitchat	4.014084	Do you know me
+q_chitchat	4.014084	Basic af
+q_chitchat	4.014084	You can't work for me anymore
+q_chitchat	4.014084	You bore me
+q_chitchat	4.014084	You seem really smart
+q_chitchat	8.028169	Not funny.
+q_chitchat	4.014084	Do you have a wife
+q_chitchat	4.014084	What kind of food do you like
+q_chitchat	4.014084	What do you like to eat
+q_chitchat	4.014084	Shush!
+q_chitchat	4.014084	Are you better looking than me
+q_chitchat	4.014084	You're funny
+q_chitchat	4.014084	Night
+q_chitchat	4.014084	What did you do yesterday
+q_chitchat	4.014084	Do you love me
+q_chitchat	4.014084	Can't you change your answers
+q_chitchat	4.014084	Will you go on a date with me
+q_chitchat	4.014084	You're not making sense
+q_chitchat	4.014084	That’s terrible
+q_chitchat	4.014084	Is this thing on
+q_chitchat	4.014084	It's my pleasure
+q_chitchat	4.014084	You're no fun
+q_chitchat	4.014084	Haha
+q_chitchat	4.014084	You're so stupid
+q_chitchat	4.014084	BFFs forever
+q_chitchat	4.014084	Will you be my partner
+q_chitchat	4.014084	Say something ridiculous
+q_chitchat	4.014084	I'm from there
+q_chitchat	4.014084	Hug me
+q_chitchat	4.014084	I am angry
+q_chitchat	4.014084	Are you a fan of country music
+q_chitchat	4.014084	Are you a girl
+q_studybiology	57	What is a parasite
+q_studybiology	57	What is cancer
+q_studybiology	57	What is a parasite
+q_studybiology	57	What is cancer
+q_studybiology	57	What is a parasite
+q_studybiology	57	What is cancer
+q_studybiology	57	What is a parasite
+q_studybiology	57	What is cancer
+q_studybiology	57	What is a parasite
+q_studybiology	57	What is cancer
+q_studysociology	47.5	let's study sociology
+q_studysociology	47.5	Apartheid
+q_studysociology	47.5	What is a stereotype
+q_studysociology	47.5	i want to study sociology
+q_studysociology	47.5	let's study sociology
+q_studysociology	47.5	Apartheid
+q_studysociology	47.5	What is a stereotype
+q_studysociology	47.5	i want to study sociology
+q_studysociology	47.5	let's study sociology
+q_studysociology	47.5	Apartheid
+q_studysociology	47.5	What is a stereotype
+q_studysociology	47.5	i want to study sociology

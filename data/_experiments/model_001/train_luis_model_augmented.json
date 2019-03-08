@@ -1,0 +1,129 @@
+{
+  "luis_schema_version": "3.1.0",
+  "versionId": "Dispatch",
+  "name": "student-bot-dispatch",
+  "desc": "dispatch",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "study geology",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "rising lava",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "metamorphic",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "pressured rock",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "geo",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "what is a period",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "what is magma",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "geology",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "period",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "epoch",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "what is an era",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "era",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "magnitude",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "time for geology",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "let's study geology",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "i want to study geology",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "lava",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "time",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "what is magnitude",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "what is a metamorphic rock",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    },
+    {
+      "text": "what is an epoch",
+      "intent": "q_4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

@@ -1,0 +1,125 @@
+{
+  "qnaDocuments": [
+    {
+      "id": 1,
+      "answer": "Absolute poverty is the condition of having too little income to buy the necessities-- food, shelter, clothing, health care.",
+      "source": "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-studybot-node/master/qna-luis-botv4-node/FAQs/StudySociology.tsv",
+      "questions": [
+        "What is absolute poverty?",
+        "Poverty"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "6abaaf50-982b-4b24-8b1a-5b281d6a78db"
+    },
+    {
+      "id": 2,
+      "answer": "Affirmative action is the requirement that employers make special efforts to recruits hire and promote qualified members of previously excluded groups including women and minorities.",
+      "source": "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-studybot-node/master/qna-luis-botv4-node/FAQs/StudySociology.tsv",
+      "questions": [
+        "What is affirmative action?",
+        "Equal rights"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "6abaaf50-982b-4b24-8b1a-5b281d6a78db"
+    },
+    {
+      "id": 3,
+      "answer": "Alienation is the separation or estrangement of individuals from themselves and from others.",
+      "source": "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-studybot-node/master/qna-luis-botv4-node/FAQs/StudySociology.tsv",
+      "questions": [
+        "What is alienation?",
+        "alienated"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "6abaaf50-982b-4b24-8b1a-5b281d6a78db"
+    },
+    {
+      "id": 4,
+      "answer": "Apartheid is the recent policy of racial separation in South Africa enforced by legal political and military power.",
+      "source": "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-studybot-node/master/qna-luis-botv4-node/FAQs/StudySociology.tsv",
+      "questions": [
+        "What is Apartheid?",
+        "South Africa",
+        "Apartheid"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "6abaaf50-982b-4b24-8b1a-5b281d6a78db"
+    },
+    {
+      "id": 5,
+      "answer": "Bicultural is the capacity to understand and function well in more than one cultural group.",
+      "source": "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-studybot-node/master/qna-luis-botv4-node/FAQs/StudySociology.tsv",
+      "questions": [
+        "What is bicultural?",
+        "Two cultures",
+        "2 cultures"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "6abaaf50-982b-4b24-8b1a-5b281d6a78db"
+    },
+    {
+      "id": 6,
+      "answer": "Let's study sociology! Type in a sociology word(s), and a definition will be returned. For example, type \"absolute poverty\".",
+      "source": "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-studybot-node/master/qna-luis-botv4-node/FAQs/StudySociology.tsv",
+      "questions": [
+        "sociology",
+        "let's study sociology",
+        "time for sociology",
+        "next up, sociology",
+        "study sociology",
+        "i want to study sociology"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "6abaaf50-982b-4b24-8b1a-5b281d6a78db"
+    },
+    {
+      "id": 7,
+      "answer": "Minorities are people who possess some distinctive physical or cultural characteristics, are dominated by the majority, and are denied equal treatment.",
+      "source": "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-studybot-node/master/qna-luis-botv4-node/FAQs/StudySociology.tsv",
+      "questions": [
+        "What is a minority?",
+        "minority"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "6abaaf50-982b-4b24-8b1a-5b281d6a78db"
+    },
+    {
+      "id": 8,
+      "answer": "Cultural pluralism is a pattern of assimilation where immigrants are allowed to maintain their traditional cultural ways while at the same time learning the values and norms of the host culture.",
+      "source": "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-studybot-node/master/qna-luis-botv4-node/FAQs/StudySociology.tsv",
+      "questions": [
+        "What is cultural pluralism?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "6abaaf50-982b-4b24-8b1a-5b281d6a78db"
+    },
+    {
+      "id": 9,
+      "answer": "A stereotype is an over-generalized belief about a category of people. Stereotyping is, for example, believing that \"all politicians are corrupt\".",
+      "source": "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-studybot-node/master/qna-luis-botv4-node/FAQs/StudySociology.tsv",
+      "questions": [
+        "What is a stereotype?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "6abaaf50-982b-4b24-8b1a-5b281d6a78db"
+    }
+  ]
+}

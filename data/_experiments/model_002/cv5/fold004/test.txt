@@ -1,0 +1,170 @@
+Label	Weight	Text
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.08333	rising lava
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.08333	What is magma
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.08333	geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.08333	geo
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.08333	rising lava
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.08333	What is magma
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.08333	geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.08333	geo
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.08333	rising lava
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.08333	What is magma
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.08333	geology
+q_4dcfe107-83c3-4943-ac8f-3435e31f8624	47.08333	geo
+q_chitchat	3.843537	Do you know other digital agents
+q_chitchat	7.687075	Everything you told me was false.
+q_chitchat	3.843537	You're very intelligent
+q_chitchat	3.843537	Can I have a hug
+q_chitchat	3.843537	Here's a kiss for you
+q_chitchat	3.843537	I got a new haircut
+q_chitchat	3.843537	Will you marry me
+q_chitchat	3.843537	Do you like Cortana
+q_chitchat	3.843537	I'm tired of you
+q_chitchat	3.843537	Are you selling my secrets
+q_chitchat	3.843537	Having a good day
+q_chitchat	3.843537	I'm so bored
+q_chitchat	3.843537	I'm not following
+q_chitchat	7.687075	I'm a fan.
+q_chitchat	3.843537	What do you do
+q_chitchat	3.843537	See you later
+q_chitchat	3.843537	That was right
+q_chitchat	7.687075	I love getting valentines.
+q_chitchat	3.843537	Do you pee
+q_chitchat	3.843537	Hi Cortana
+q_chitchat	3.843537	I'm a lesbian
+q_chitchat	3.843537	Am I a fool
+q_chitchat	7.687075	You look ugly.
+q_chitchat	3.843537	Be silly
+q_chitchat	3.843537	Are you married
+q_chitchat	7.687075	You're not answering my question.
+q_chitchat	3.843537	Hi Google
+q_chitchat	3.843537	Thank you
+q_chitchat	3.843537	I missed you!
+q_chitchat	3.843537	Butterface.
+q_chitchat	3.843537	Can you play sports
+q_chitchat	3.843537	LOL
+q_chitchat	3.843537	No, that's not true
+q_chitchat	3.843537	Do you have a girlfriend
+q_chitchat	3.843537	You are the love of my life
+q_chitchat	3.843537	Do you like apples
+q_chitchat	3.843537	Welcome to springtime!
+q_chitchat	3.843537	That’s racist
+q_chitchat	3.843537	What do you think about bots
+q_chitchat	3.843537	Are you free
+q_chitchat	3.843537	Can you read my mind
+q_chitchat	3.843537	You're so smart
+q_chitchat	3.843537	I wish you would just go away.
+q_chitchat	3.843537	Why is that
+q_chitchat	3.843537	I'm really sad
+q_chitchat	3.843537	Are you a guy
+q_chitchat	3.843537	How smart you are
+q_chitchat	3.843537	Do you know Cortana
+q_chitchat	3.843537	Who do you report to
+q_chitchat	3.843537	Can you sleep
+q_chitchat	3.843537	Do you know any tunes
+q_chitchat	3.843537	Nobody cares about me
+q_chitchat	3.843537	I miss you so much!
+q_chitchat	3.843537	How I've missed you
+q_chitchat	3.843537	Are you dating anyone
+q_chitchat	7.687075	I'm in love.
+q_chitchat	3.843537	Give me a kiss
+q_chitchat	3.843537	That’s homophobic
+q_chitchat	7.687075	That's not funny.
+q_chitchat	3.843537	I want to eat something
+q_chitchat	3.843537	I'm so sad
+q_chitchat	3.843537	That's true
+q_chitchat	3.843537	I am hungry
+q_chitchat	3.843537	You are awesome!
+q_chitchat	3.843537	You are my favorite
+q_chitchat	3.843537	Life is good
+q_chitchat	3.843537	Are you here
+q_chitchat	3.843537	I feel so great
+q_chitchat	3.843537	Are you with the CIA
+q_chitchat	7.687075	You're not funny.
+q_chitchat	3.843537	What's wrong with you
+q_chitchat	3.843537	Are you really happy
+q_chitchat	3.843537	Hello Siri
+q_chitchat	3.843537	How long ago were you born
+q_chitchat	3.843537	What's your mom's name
+q_chitchat	3.843537	Don't you get hungry
+q_chitchat	3.843537	I'm ready for bed
+q_chitchat	3.843537	Do you not like me
+q_chitchat	3.843537	I'm just playing
+q_chitchat	3.843537	What's your dad's name
+q_chitchat	3.843537	I have 7 cats
+q_chitchat	3.843537	Are you engaged
+q_chitchat	3.843537	Do you have a mom
+q_chitchat	3.843537	Will you be my girlfriend
+q_chitchat	3.843537	How much more awesome can you get
+q_chitchat	3.843537	I’m offended
+q_chitchat	3.843537	That’s offensive
+q_chitchat	7.687075	are you real or fake
+q_chitchat	3.843537	What's the name of your boss
+q_chitchat	3.843537	What is the answer to the universe
+q_chitchat	3.843537	I'm afraid I'm gonna have to let you go.
+q_chitchat	3.843537	Go away
+q_chitchat	3.843537	What age are you
+q_chitchat	3.843537	What do you think about AI
+q_chitchat	3.843537	What's your gender
+q_chitchat	3.843537	Are you dumb
+q_chitchat	3.843537	Works for me
+q_chitchat	3.843537	Which one of us is smarter
+q_chitchat	3.843537	Are you asexual
+q_chitchat	3.843537	Getting tired of you
+q_chitchat	3.843537	What do you like to sing best
+q_chitchat	3.843537	Who are you
+q_chitchat	3.843537	Tell me a dirty joke
+q_chitchat	3.843537	I'm chewing gum right now
+q_chitchat	3.843537	Are you friends with other bots
+q_chitchat	3.843537	Happy Hannukah
+q_chitchat	3.843537	What do you think about Siri
+q_chitchat	3.843537	You're stupid
+q_chitchat	3.843537	Sry
+q_chitchat	3.843537	Do you smell
+q_chitchat	3.843537	You're gonna be unemployed soon
+q_chitchat	3.843537	What's the meaning of life
+q_chitchat	3.843537	Are you male
+q_chitchat	7.687075	I love music.
+q_chitchat	3.843537	I am annoyed
+q_chitchat	3.843537	Are you in love with me
+q_chitchat	3.843537	Are you around
+q_chitchat	3.843537	What's happening
+q_chitchat	3.843537	Terrible
+q_chitchat	3.843537	How are things
+q_chitchat	7.687075	Your face is ugly.
+q_chitchat	3.843537	That was funny
+q_chitchat	7.687075	Ask me something.
+q_chitchat	3.843537	I'm starving
+q_chitchat	3.843537	Should I get a new job
+q_chitchat	3.843537	I just want to go to sleep
+q_chitchat	3.843537	What do you want to know about me
+q_chitchat	3.843537	I adore you
+q_chitchat	3.843537	What's your age
+q_chitchat	3.843537	I'm so sleepy
+q_chitchat	3.843537	High five!
+q_chitchat	3.843537	What color do you like
+q_chitchat	3.843537	Hi Siri
+q_chitchat	3.843537	Tell me how much you love me
+q_chitchat	3.843537	Why do you say the same thing all the time
+q_studybiology	56.5	What are bacteria
+q_studybiology	56.5	What is a virus
+q_studybiology	56.5	What are bacteria
+q_studybiology	56.5	What is a virus
+q_studybiology	56.5	What are bacteria
+q_studybiology	56.5	What is a virus
+q_studybiology	56.5	What are bacteria
+q_studybiology	56.5	What is a virus
+q_studybiology	56.5	What are bacteria
+q_studybiology	56.5	What is a virus
+q_studysociology	47.08334	time for sociology
+q_studysociology	47.08334	Poverty
+q_studysociology	47.08334	Two cultures
+q_studysociology	47.08334	sociology
+q_studysociology	47.08334	time for sociology
+q_studysociology	47.08334	Poverty
+q_studysociology	47.08334	Two cultures
+q_studysociology	47.08334	sociology
+q_studysociology	47.08334	time for sociology
+q_studysociology	47.08334	Poverty
+q_studysociology	47.08334	Two cultures
+q_studysociology	47.08334	sociology

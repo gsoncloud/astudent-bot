@@ -1,0 +1,96 @@
+{
+    "name": "mystudent-bot",
+    "description": "",
+    "services": [
+        {
+            "type": "abs",
+            "tenantId": "581e94de-7e2f-4d69-9d5f-791d2fb8f31a",
+            "subscriptionId": "123215a7-9e43-42c1-91b8-a322f241cc02",
+            "resourceGroup": "student-bot",
+            "serviceName": "mystudent-bot",
+            "name": "mystudent-bot",
+            "id": "1",
+            "appId": "fab01343-8f67-4056-add2-d9c8310e7634"
+        },
+        {
+            "type": "blob",
+            "connectionString": "DefaultEndpointsProtocol=https;AccountName=mystudentbotstorage;AccountKey=Te4aoRNBjlFM3A/vrrxi2fDxNLS5psavb4rQ0a7BhhnL1jUkM3dTET3Yjk8ishcs8341OeFaQofBE7UaY5FyRQ==;",
+            "tenantId": "581e94de-7e2f-4d69-9d5f-791d2fb8f31a",
+            "subscriptionId": "123215a7-9e43-42c1-91b8-a322f241cc02",
+            "resourceGroup": "student-bot",
+            "serviceName": "mystudentbotstorage",
+            "id": "2"
+        },
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "development",
+            "id": "3"
+        },
+        {
+            "type": "endpoint",
+            "appId": "fab01343-8f67-4056-add2-d9c8310e7634",
+            "appPassword": "(d0XtY-l.;e>i*aVRX=VqLA*55Zjdp",
+            "endpoint": "https://mystudent-bot.azurewebsites.net/api/messages",
+            "name": "production",
+            "id": "4"
+        },
+    {
+      "type": "dispatch",
+      "appId": "cc96320b-6617-4783-9b53-0782685e2ecd",
+      "authoringKey": "d3b87099828b4fbfa5f2a3a72ea2ddd0",
+      "id": "161",
+      "name": "student-bot-dispatch",
+      "subscriptionKey": "604e08940fda42329c276152f6172b13",
+      "spellCheckSubscriptionKey": "",
+      "version": "Dispatch",
+      "region": "westus",
+      "serviceIds": [
+        "5",
+        "6",
+        "7",
+	"8"
+      ]
+    },
+    {
+      "type": "qna",
+      "endpointKey": "2eefcb30-0575-4407-b7f7-e51382b93a4a",
+      "hostname": "https://astudentbotQnA.azurewebsites.net/qnamaker",
+      "id": "5",
+      "kbId": "e09e6a5d-604f-4d88-b68d-d4405b346b92",
+      "name": "studybiology",
+      "subscriptionKey": "604e08940fda42329c276152f6172b13"
+    },
+    {
+      "type": "qna",
+      "endpointKey": "2eefcb30-0575-4407-b7f7-e51382b93a4a",
+      "hostname": "https://astudentbotQnA.azurewebsites.net/qnamaker",
+      "id": "6",
+      "kbId": "fe495187-0741-42f5-950b-4297a39da6f1",
+      "name": "chitchat",
+      "subscriptionKey": "604e08940fda42329c276152f6172b13"
+    },
+    {
+      "type": "qna",
+      "endpointKey": "2eefcb30-0575-4407-b7f7-e51382b93a4a",
+      "hostname": "https://astudentbotQnA.azurewebsites.net/qnamaker",
+      "id": "7",
+      "kbId": "6abaaf50-982b-4b24-8b1a-5b281d6a78db",
+      "name": "studysociology",
+      "subscriptionKey": "604e08940fda42329c276152f6172b13"
+    } ,
+    {
+      "type": "qna",
+      "endpointKey": "2eefcb30-0575-4407-b7f7-e51382b93a4a",
+      "hostname": "https://astudentbotQnA.azurewebsites.net/qnamaker",
+      "id": "7",
+      "kbId": "4dcfe107-83c3-4943-ac8f-3435e31f8624",
+      "name": "studygeology",
+      "subscriptionKey": "604e08940fda42329c276152f6172b13"
+    }       
+],
+    "padlock": "",
+    "version": "2.0"
+}
